@@ -52,13 +52,13 @@
 
 - name: Adam Gillette
   pic: team-adam-gillette.jpg
-  position: Director of Programs
+  position: Director of Program Development
   social:
     - title: linkedin
       url: "https://www.linkedin.com/in/adam-c-gillette-aaa4a529/"
 
 - name: Aretha Kebirungi
-  pic: team-matt-gee.jpg
+  pic: aretha-kebirungi.jpg
   position: Lead Software Engineer
   social:
     - title: linkedin
@@ -72,3 +72,5 @@
   social:
     - title: linkedin
       url: "https://www.linkedin.com/in/ndagistanley/"
+    - title: github
+      url: "https://github.com/NdagiStanley"
