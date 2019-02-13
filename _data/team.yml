@@ -67,3 +67,12 @@
       url: "https://www.linkedin.com/in/kporterrobinson/"
     - title: github
       url: "https://github.com/robinsonkwame"      
+
+- name: Gregory Mundy
+  pic: team-gregory-mundy.jpg
+  position: Principal Systems Architect
+  social:
+    - title: linkedin
+      url: "https://www.linkedin.com/in/gregory-mundy-a45a3b4/"
+    - title: github
+      url: "https://github.com/gregmundy"      
